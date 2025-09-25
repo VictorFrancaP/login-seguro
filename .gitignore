@@ -38,6 +38,7 @@ build/
 ### Mac OS ###
 .DS_Store
 
+maven-wrapper.properties
 application.properties
 pom.xml
 mvnw.cmd
