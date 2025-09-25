@@ -60,8 +60,9 @@ mvn spring-boot:run
 ```
 
 4. Acesse no navegador
-👉 http://localhost:8080/login
-
+```
+http://localhost:8080/login
+```
 ---
 🔑 Fluxos de Autenticação
 
