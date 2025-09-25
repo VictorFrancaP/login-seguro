@@ -39,3 +39,8 @@ build/
 .DS_Store
 
 application.properties
+pom.xml
+mvnw.cmd
+mvnw
+HELP.md
+.mvn/wrapper
