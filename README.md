@@ -64,7 +64,9 @@ mvn spring-boot:run
 http://localhost:8080/login
 ```
 ---
+
 🔑 Fluxos de Autenticação
+---
 
 📌 Login
 ---
@@ -88,6 +90,7 @@ POST /auth/register → Valida dados e cria novo usuário no banco.
 ---
 
 📖 Documentação
+---
 
 O sistema inclui:
 Estrutura modular baseada em boas práticas do Spring Boot.
@@ -101,7 +104,7 @@ README com instruções de configuração e execução.
 ---
 
 📜 Licença
-
+---
 Este projeto é distribuído sob a licença MIT.
 Sinta-se à vontade para usar, modificar e contribuir.
 
