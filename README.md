@@ -69,7 +69,7 @@ mvn spring-boot:run
 ---
 GET /auth/login → Exibe tela de login.
 Caso falhe, mostra mensagem de erro.
----
+
 
 ---
 
